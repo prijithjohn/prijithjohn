@@ -90,7 +90,7 @@ IBM Java Professional Certificate holder; completed industry-aligned virtual int
 ### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prijith-J-YourUsername&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Prijith's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prijith-J-prijithjohn&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Prijith's Stats" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prijith-J-YourUsername&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
