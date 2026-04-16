@@ -50,6 +50,9 @@
 
 ### 🌟 Key Highlights
 
+🛡️ MediScan AI (AI Integration & OCR)
+
+Engineered an end-to-end medical prescription analyzer using Python and Google
 Gemini Pro, automating the digitization of handwritten health records.
 
 Integrated Tesseract OCR and custom pre-processing pipelines to extract text with high precision, utilizing LLMs to identify disease patterns and generate diagnostic summaries.
