@@ -50,10 +50,37 @@
 
 ### 🌟 Key Highlights
 
-* 🛡️ **MediScan AI:** Developed an end-to-end medical prescription analysis system using **Python & Gemini AI** to digitize health records.
-* ☕ **Event Booking System:** Engineered a high-performance booking backend using **Java & Spring Boot** with RESTful API architecture.
-* 📈 **Business Automation:** Built a **Django** suite for a fitness equipment business, automating quotations and service logs to improve efficiency.
-* 🎓 **Certifications:** IBM Java Professional Certificate & Virtual Internships at **Tata & JPMorgan Chase**.
+Gemini Pro, automating the digitization of handwritten health records.
+
+Integrated Tesseract OCR and custom pre-processing pipelines to extract text with high precision, utilizing LLMs to identify disease patterns and generate diagnostic summaries.
+
+☕ Scalable Event Booking System (Backend Engineering)
+
+Architected a high-concurrency booking engine using Java and Spring Boot, implementing RESTful API principles and Spring Data JPA for efficient database management.
+
+Designed a modular MVC architecture to handle real-time reservations, focusing on data integrity and scalable system design.
+
+💳 Smart E-Commerce & Fintech Integration
+
+Developed a full-stack marketplace featuring secure Payment Gateway integration, managing complex transaction lifecycles and order state persistence.
+
+Implemented robust error handling for financial flows to ensure a seamless and secure checkout experience.
+
+📊 Expense Tracker & Analytics Dashboard
+
+Built a personal finance tool that aggregates raw transaction data into an interactive visual dashboard, enabling real-time spending analysis.
+
+Focused on CRUD operations and data visualization to transform static logs into actionable financial insights.
+
+📈 Business Automation Suite (Real-World Impact)
+
+Developed a custom Django-based ERP for a fitness equipment business, automating quotation generation and maintenance logs.
+
+Impact: Reduced manual administrative overhead by 40%, demonstrating the ability to translate business requirements into technical solutions.
+
+🎓 Professional Development
+
+IBM Java Professional Certificate holder; completed industry-aligned virtual internships at Tata (Data Visualization) and JPMorgan Chase (Software Engineering).
 
 ---
 
