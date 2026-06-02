@@ -78,6 +78,17 @@ Building scalable web applications, AI-powered solutions, and modern backend sys
 
 ---
 
+## 🚀 LinkUp AI – AI-Powered LinkedIn Assistant
+
+- Developed a full-stack AI-powered LinkedIn communication assistant using React and Spring Boot
+- Integrated Groq Llama 3.3 models to generate referral requests, connection requests, recruiter outreach messages, and professional follow-ups
+- Engineered dynamic prompt generation with customizable tones and action-based message workflows
+- Built a Chrome Extension for seamless LinkedIn integration and one-click AI message generation
+- Designed secure backend APIs with Spring Boot, WebClient, and server-side API key protection
+- Implemented Fast Mode and Quality Mode to balance response speed and output quality
+- Created a modern Material UI interface with real-time AI response rendering and user-friendly workflows
+
+
 ## 🧠 MediScan AI – AI Integration & OCR
 
 - Engineered an end-to-end medical prescription analyzer using Python and Google Gemini Pro
