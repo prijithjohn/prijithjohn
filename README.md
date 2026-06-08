@@ -125,16 +125,7 @@ Building scalable web applications, AI-powered solutions, and modern backend sys
 # 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=prijithjohn&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=prijithjohn&theme=tokyonight&hide_border=true" height="180em"/>
-</p>
-
----
-
-# 📊 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prijithjohn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 ---
