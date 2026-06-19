@@ -79,6 +79,8 @@ Building scalable web applications, AI-powered solutions, and modern backend sys
 
 🔗 **Demo:** [Live Demo](https://metaguard-ig1v.onrender.com)
 
+---
+
 ## 🚀 FlowAI – AI Email Assistant + Chrome Extension
 
 - Developed a full-stack AI-powered email assistant for generating smart replies
