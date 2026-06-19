@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prijith J</h1>
 
-<h3 align="center">🚀 Java Full Stack Developer | Aspiring Software Engineer | AI Integration Enthusiast</h3>
+<h3 align="center">🚀 Software Engineer | Java Full Stack Developer | Backend & Data Engineering Enthusiast</h3>
 
 <p align="center">
 Building scalable web applications, AI-powered solutions, and modern backend systems.
@@ -69,6 +69,15 @@ Building scalable web applications, AI-powered solutions, and modern backend sys
 ---
 
 # 📌 Featured Projects
+
+## 🛡️ MetaGuard – Enterprise Data Governance & Risk Intelligence Platform
+
+- Built a Django-based platform for dataset governance, data quality analysis, PII detection, and risk classification.
+- Implemented asynchronous processing using Celery, Redis, and PostgreSQL to handle large dataset analysis efficiently.
+- Generated automated governance reports and interactive analytics dashboards for data-driven insights.
+- Deployed a production-ready application with support for datasets up to 1GB.
+
+🔗 **Demo:** [Live Demo](https://metaguard-ig1v.onrender.com)
 
 ## 🚀 FlowAI – AI Email Assistant + Chrome Extension
 
